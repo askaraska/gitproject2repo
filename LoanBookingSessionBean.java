@@ -1,4 +1,5 @@
-=====first version==============
+=====second version==============
+some enhance feature
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
